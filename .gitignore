@@ -1,0 +1,10 @@
+# Build output
+/out/
+
+# Gradle / Maven (if added later)
+/target/
+/build/
+
+# OS
+Thumbs.db
+.DS_Store

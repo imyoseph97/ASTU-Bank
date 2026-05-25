@@ -1,0 +1,5 @@
+studentId=UGR/38058/17
+firstName=Ziyad
+lastName=Araba
+balance=1500.0
+transactions=2

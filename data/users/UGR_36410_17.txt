@@ -1,0 +1,5 @@
+studentId=UGR/36410/17
+firstName=Amani
+lastName=H
+balance=1500.0001
+transactions=3

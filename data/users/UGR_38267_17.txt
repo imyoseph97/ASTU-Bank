@@ -1,0 +1,5 @@
+studentId=UGR/38267/17
+firstName=Yoseph
+lastName=Shewatatek
+balance=12190.0
+transactions=19

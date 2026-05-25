@@ -1,0 +1,5 @@
+studentId=UGR/00003/24
+firstName=Student
+lastName=Two
+balance=3200.0
+transactions=1

@@ -1,0 +1,3 @@
+studentId=UGR/23456/17
+balance=500.0
+transactions=1
