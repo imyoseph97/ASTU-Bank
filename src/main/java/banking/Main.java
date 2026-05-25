@@ -1,14 +1,3 @@
-/*
-1.	Yoseph Shewatatek				UGR/38267/17
-2.	Bethelhem Gezahegn			    UGR/36556/17
-3.	Tayu Yismu						UGR/37834/17
-4.	Natan Habtamu					UGR/38258/17
-*/
-
-
-
-
-
 package banking;
 
 import banking.service.BankService;
